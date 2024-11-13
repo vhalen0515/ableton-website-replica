@@ -130,6 +130,7 @@ header {
 
 #header-menu-icon {
     font-size: 30px;
+    color: black;
 }
 
 #header-menu-container {
@@ -512,6 +513,7 @@ footer {
     font-family: "Futura PT Book";
     font-size: 0.875rem;
     font-weight: bold;
+    color: black;
     background: #ececec;
     padding: 0.5rem;
     border: none;
